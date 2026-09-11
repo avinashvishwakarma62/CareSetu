@@ -1,0 +1,6 @@
+{
+  "name": "CareSetu",
+  "description": "Rural Health Awareness & Assistance Platform for Indian rural communities with multilingual guidance, emergency first-aid, affordable healthcare finder, schemes, and AI health assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
